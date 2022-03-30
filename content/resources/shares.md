@@ -6,6 +6,7 @@ description: Supporting files for a problem set on simulating shopping center de
   may execute the file shares.exe. All other files in this ZIP are supporting files.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-433j-real-estate-economics-fall-2008/5b3b31c19ba35205089b32474b1bd9f5_shares.zip
 file_type: application/zip
+parent_uid: 8b113727-f7ea-1b88-6760-150fb45fc693
 resourcetype: Other
 title: Data Files
 uid: 5b3b31c1-9ba3-5205-089b-32474b1bd9f5

@@ -5,6 +5,7 @@ description: "Lecture presentation on employment decentralization, edge cities, 
   \ limits to sprawl."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-433j-real-estate-economics-fall-2008/aa18f4e97da81718a0cb443d82065c59_wk5.pdf
 file_type: application/pdf
+parent_uid: a714fff7-4f46-c81c-fd24-474282e6cac5
 resourcetype: Document
 title: "Week 5: Employment Decentralization, \u201Cedge\u201D cities"
 uid: aa18f4e9-7da8-1718-a0cb-443d82065c59

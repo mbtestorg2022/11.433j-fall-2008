@@ -4,6 +4,7 @@ description: Lecture presentation on residential land markets, the urban land ma
   location, rents, prices, and land use.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-433j-real-estate-economics-fall-2008/bf94dae097ca965fef271c6464cc7357_wk2.pdf
 file_type: application/pdf
+parent_uid: a714fff7-4f46-c81c-fd24-474282e6cac5
 resourcetype: Document
 title: 'Week 2: The Urban Land Market, location, rents, prices'
 uid: bf94dae0-97ca-965f-ef27-1c6464cc7357

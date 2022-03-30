@@ -5,6 +5,7 @@ description: Lecture presentation with an introduction to the course and discuss
   economics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-433j-real-estate-economics-fall-2008/b6ff09e24e493acf19444c7e1f7d8a50_wk1.pdf
 file_type: application/pdf
+parent_uid: a714fff7-4f46-c81c-fd24-474282e6cac5
 resourcetype: Document
 title: 'Week 1: Introduction'
 uid: b6ff09e2-4e49-3acf-1944-4c7e1f7d8a50
